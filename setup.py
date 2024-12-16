@@ -8,7 +8,7 @@ setup(
     description="A library for analyzing skincare ingredients.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/skincare-chemistry",
+    url="https://github.com/venusflytrapfairy/skincare-chemistry",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
