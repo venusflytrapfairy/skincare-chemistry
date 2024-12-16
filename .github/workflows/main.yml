@@ -18,8 +18,7 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies
       run: |
-        pip install pytest
-        pip install python-dotenv  # Add any other dependencies here
-    - name: Run tests
-      run: |
-        pytest
+        pip install pandas  # Add all the dependencies you need
+        pip install numpy
+        pip install requests
+    ```
