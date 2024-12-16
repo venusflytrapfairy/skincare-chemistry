@@ -21,4 +21,3 @@ jobs:
         pip install pandas  # Add all the dependencies you need
         pip install numpy
         pip install requests
-    ```
